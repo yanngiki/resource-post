@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1360px" height="400px" viewBox="0 0 1360 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>WiFi&amp;Bilnding</title>
+    <g id="WiFi&amp;Bilnding" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(30.000000, 20.000000)">
+            <rect id="Rectangle" fill="#F5F5F5" fill-rule="nonzero" x="0" y="0" width="1300" height="160"></rect>
+            <rect id="Rectangle" stroke="#D79B00" stroke-width="2" fill="#FFE6CC" fill-rule="nonzero" x="180" y="40" width="200" height="80"></rect>
+            <text id="触发WiFi连接" fill="#000000" fill-rule="nonzero" font-family="PingFangSC-Regular, PingFang SC" font-size="24" font-weight="normal">
+                <tspan x="207" y="90">触发</tspan>
+                <tspan x="255" y="90" font-family="Helvetica">WiFi</tspan>
+                <tspan x="302.976562" y="90">连接</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#D79B00" stroke-width="2" fill="#FFE6CC" fill-rule="nonzero" x="620" y="40" width="200" height="80"></rect>
+            <text id="显示绑定二维码" fill="#000000" fill-rule="nonzero" font-family="PingFangSC-Regular, PingFang SC" font-size="24" font-weight="normal">
+                <tspan x="635" y="90">显示绑定二维码</tspan>
+            </text>
+            <line x1="380" y1="80" x2="607.26" y2="80" id="Path" stroke="#FFB570" stroke-width="2" stroke-dasharray="2"></line>
+            <polygon id="Path" stroke="#FFB570" stroke-width="2" fill="#FFB570" fill-rule="nonzero" points="617.76 80 603.76 84.66 607.26 80 603.76 75.34"></polygon>
+            <text id="WiFi连接成功" fill="#868C8F" fill-rule="nonzero" font-family="Helvetica" font-size="20" font-weight="normal">
+                <tspan x="435.009766" y="104">WiFi</tspan>
+                <tspan x="474.990234" y="104" font-family="PingFangSC-Regular, PingFang SC">连接成功</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#D79B00" stroke-width="2" fill="#FFE6CC" fill-rule="nonzero" x="1040" y="40" width="200" height="80"></rect>
+            <text id="正常使用" fill="#000000" fill-rule="nonzero" font-family="PingFangSC-Regular, PingFang SC" font-size="24" font-weight="normal">
+                <tspan x="1091" y="90">正常使用</tspan>
+            </text>
+            <line x1="820" y1="80" x2="1027.26" y2="80" id="Path" stroke="#FFB570" stroke-width="2" stroke-dasharray="2"></line>
+            <polygon id="Path" stroke="#FFB570" stroke-width="2" fill="#FFB570" fill-rule="nonzero" points="1037.76 80 1023.76 84.66 1027.26 80 1023.76 75.34"></polygon>
+            <rect id="Rectangle" fill="#E8D8A2" fill-rule="nonzero" x="0" y="0" width="120" height="160"></rect>
+            <g transform="translate(35.000000, 65.000000)" fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="24" font-weight="normal" id="RBT">
+                <g>
+                    <text>
+                        <tspan x="0" y="23">RBT</tspan>
+                    </text>
+                </g>
+            </g>
+            <rect id="Rectangle" fill="#F5F5F5" fill-rule="nonzero" x="0" y="200" width="1300" height="160"></rect>
+            <line x1="380" y1="280" x2="607.26" y2="280" id="Path" stroke="#435978" stroke-width="2" stroke-dasharray="2"></line>
+            <polygon id="Path" stroke="#435978" stroke-width="2" fill="#435978" fill-rule="nonzero" points="617.76 280 603.76 284.66 607.26 280 603.76 275.34"></polygon>
+            <text id="WiFi连接成功" fill="#999999" fill-rule="nonzero" font-family="Helvetica" font-size="20" font-weight="normal">
+                <tspan x="433.009766" y="304">WiFi</tspan>
+                <tspan x="472.990234" y="304" font-family="PingFangSC-Regular, PingFang SC">连接成功</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#23445D" stroke-width="2" fill="#BAC8D3" fill-rule="nonzero" x="180" y="240" width="200" height="80"></rect>
+            <g transform="translate(188.000000, 249.000000)" fill="#000000" fill-rule="nonzero" font-family="PingFangSC-Regular, PingFang SC" font-size="24" font-weight="normal" id="搜索设备并填写WiFI信息">
+                <g>
+                    <text>
+                        <tspan x="7" y="25">搜索设备并填写</tspan>
+                        <tspan x="42.34375" y="58" font-family="Helvetica">WiFI</tspan>
+                        <tspan x="91.65625" y="58">信息</tspan>
+                    </text>
+                </g>
+            </g>
+            <line x1="820" y1="280" x2="1027.26" y2="280" id="Path" stroke="#435978" stroke-width="2" stroke-dasharray="2"></line>
+            <polygon id="Path" stroke="#435978" stroke-width="2" fill="#435978" fill-rule="nonzero" points="1037.76 280 1023.76 284.66 1027.26 280 1023.76 275.34"></polygon>
+            <rect id="Rectangle" stroke="#23445D" stroke-width="2" fill="#BAC8D3" fill-rule="nonzero" x="620" y="240" width="200" height="80"></rect>
+            <text id="扫码绑定" fill="#000000" fill-rule="nonzero" font-family="PingFangSC-Regular, PingFang SC" font-size="24" font-weight="normal">
+                <tspan x="671" y="290">扫码绑定</tspan>
+            </text>
+            <path d="M820,280 L940,280 L940,92.74" id="Path" stroke="#435978" stroke-width="2" stroke-dasharray="2"></path>
+            <polygon id="Path" stroke="#435978" stroke-width="2" fill="#435978" fill-rule="nonzero" points="940 82.24 944.66 96.24 940 92.74 935.34 96.24"></polygon>
+            <text id="绑定成功" fill="#999999" fill-rule="nonzero" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal">
+                <tspan x="901" y="268">绑定成功</tspan>
+            </text>
+            <rect id="Rectangle" fill="#B4BDCC" fill-rule="nonzero" x="0" y="200" width="120" height="160"></rect>
+            <g transform="translate(31.000000, 265.000000)" fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="24" font-weight="normal" id="MOB">
+                <g>
+                    <text>
+                        <tspan x="0" y="23">MOB</tspan>
+                    </text>
+                </g>
+            </g>
+            <rect id="Rectangle" stroke="#23445D" stroke-width="2" fill="#BAC8D3" fill-rule="nonzero" x="1040" y="240" width="200" height="80"></rect>
+            <text id="进入设备主页" fill="#000000" fill-rule="nonzero" font-family="PingFangSC-Regular, PingFang SC" font-size="24" font-weight="normal">
+                <tspan x="1067" y="290">进入设备主页</tspan>
+            </text>
+            <line x1="230" y1="120" x2="230" y2="227.26" id="Path" stroke="#FFB570" stroke-width="2" stroke-dasharray="2"></line>
+            <polygon id="Path" stroke="#FFB570" stroke-width="2" fill="#FFB570" fill-rule="nonzero" points="230 237.76 225.34 223.76 230 227.26 234.66 223.76"></polygon>
+            <g transform="translate(136.000000, 165.000000)" fill="#999999" fill-rule="nonzero" font-family="Helvetica" font-size="20" font-weight="normal" id="SSID广播">
+                <g>
+                    <text>
+                        <tspan x="0" y="19">SSID</tspan>
+                        <tspan x="46.6796875" y="19" font-family="PingFangSC-Regular, PingFang SC">广播</tspan>
+                    </text>
+                </g>
+            </g>
+            <line x1="330" y1="240" x2="330" y2="132.74" id="Path" stroke="#435978" stroke-width="2" stroke-dasharray="2"></line>
+            <polygon id="Path" stroke="#435978" stroke-width="2" fill="#435978" fill-rule="nonzero" points="330 122.24 334.66 136.24 330 132.74 325.34 136.24"></polygon>
+            <g transform="translate(333.000000, 165.000000)" fill="#999999" fill-rule="nonzero" font-family="Helvetica" font-size="20" font-weight="normal" id="WiFi信息">
+                <g>
+                    <text>
+                        <tspan x="0" y="19">WiFi</tspan>
+                        <tspan x="39.9804688" y="19" font-family="PingFangSC-Regular, PingFang SC">信息</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

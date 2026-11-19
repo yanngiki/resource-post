@@ -1,0 +1,38 @@
+<svg width="1200" height="502" viewBox="0 0 1200 502" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="1200" height="502" fill="white"/>
+<rect width="1200" height="502" fill="url(#pattern0_3689_48022)" fill-opacity="0.9"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="PingFang SC" font-size="24" font-weight="600" letter-spacing="-0.019em"><tspan x="144" y="258.64">APC</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="PingFang SC" font-size="16" font-weight="600" letter-spacing="-0.011em"><tspan x="363" y="75.76">&#x91c7;&#x8d2d;&#x4e3b;&#x7ba1;</tspan></text>
+<path d="M199 250C298.638 250 257.362 70 357 70" stroke="#D9D9D9" stroke-width="4" stroke-linecap="round" stroke-linejoin="bevel"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="PingFang SC" font-size="16" font-weight="600" letter-spacing="-0.011em"><tspan x="363" y="219.76">&#x91c7;&#x8d2d;-&#x5916;&#x5305;&#x7ba1;&#x7406;</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="PingFang SC" font-size="16" font-weight="600" letter-spacing="-0.011em"><tspan x="363" y="147.76">&#x91c7;&#x8d2d;-&#x5546;&#x52a1;</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="PingFang SC" font-size="16" font-weight="600" letter-spacing="-0.011em"><tspan x="363" y="291.76">&#x827a;&#x8bbe;&#x7ecf;&#x7406;</tspan></text>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="PingFang SC" font-size="16" font-weight="600" letter-spacing="-0.011em"><tspan x="363" y="435.76">APM/PMA</tspan></text>
+<path d="M199 250C298.638 250 257.362 430 357 430" stroke="#D9D9D9" stroke-width="4" stroke-linecap="round" stroke-linejoin="bevel"/>
+<text fill="#1E1E1E" xml:space="preserve" style="white-space: pre" font-family="PingFang SC" font-size="16" font-weight="600" letter-spacing="-0.011em"><tspan x="363" y="363.76">&#x63a5;&#x53e3;&#x4eba;</tspan></text>
+<path d="M199 250C278.933 250 277.067 358 357 358" stroke="#D9D9D9" stroke-width="4" stroke-linecap="round" stroke-linejoin="bevel"/>
+<path d="M199 250C267.142 250 288.858 286 357 286" stroke="#D9D9D9" stroke-width="4" stroke-linecap="round" stroke-linejoin="bevel"/>
+<path d="M199 250C278.933 250 277.067 142 357 142" stroke="#D9D9D9" stroke-width="4" stroke-linecap="round" stroke-linejoin="bevel"/>
+<path d="M199 250C267.142 250 288.858 214 357 214" stroke="#D9D9D9" stroke-width="4" stroke-linecap="round" stroke-linejoin="bevel"/>
+<text fill="#888888" xml:space="preserve" style="white-space: pre" font-family="PingFang SC" font-size="24" font-weight="600" letter-spacing="-0.019em"><tspan x="710" y="263.64">APC</tspan></text>
+<text fill="#888888" xml:space="preserve" style="white-space: pre" font-family="PingFang SC" font-size="16" font-weight="600" letter-spacing="-0.011em"><tspan x="929" y="368.76">&#x8d22;&#x52a1;</tspan></text>
+<text fill="#888888" xml:space="preserve" style="white-space: pre" font-family="PingFang SC" font-size="16" font-weight="600" letter-spacing="-0.011em"><tspan x="929" y="260.76">QC</tspan></text>
+<text fill="#888888" xml:space="preserve" style="white-space: pre" font-family="PingFang SC" font-size="16" font-weight="600" letter-spacing="-0.011em"><tspan x="929" y="152.76">&#x5236;&#x4f5c;&#x4eba;</tspan></text>
+<path d="M765 255C844.933 255 843.067 363 923 363" stroke="#E8E8E8" stroke-width="4" stroke-linecap="round" stroke-linejoin="bevel"/>
+<path d="M765 255H923" stroke="#E8E8E8" stroke-width="4" stroke-linecap="round" stroke-linejoin="bevel"/>
+<path d="M765 255C844.933 255 843.067 147 923 147" stroke="#E8E8E8" stroke-width="4" stroke-linecap="round" stroke-linejoin="bevel"/>
+<defs>
+<pattern id="pattern0_3689_48022" patternUnits="userSpaceOnUse" patternTransform="matrix(14 0 0 14 0 0)" preserveAspectRatio="none" viewBox="0 0 14 14" width="1" height="1">
+<g id="pattern0_3689_48022_inner">
+<g clip-path="url(#clip0_3689_48022)">
+<circle r="1" fill="#E8E8E8"/>
+<circle cy="14" r="1" fill="#E8E8E8"/>
+<circle cx="14" r="1" fill="#E8E8E8"/>
+<circle cx="14" cy="14" r="1" fill="#E8E8E8"/>
+</g>
+</g>
+</pattern><clipPath id="clip0_3689_48022">
+<rect width="14" height="14" fill="white"/>
+</clipPath>
+</defs>
+</svg>
